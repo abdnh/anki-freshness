@@ -1,0 +1,2 @@
+-   `single`: For each CSS property here, a random value from the list will be applied.
+-   `multi`: A random combination of property values will be applied.

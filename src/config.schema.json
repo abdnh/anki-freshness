@@ -1,0 +1,17 @@
+{
+    "type": "object",
+    "properties": {
+        "single": {
+            "type": "object",
+            "items": {
+                "type": "array"
+            }
+        },
+        "multi": {
+            "type": "array",
+            "items": {
+                "type": "object"
+            }
+        }
+    }
+}

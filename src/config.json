@@ -1,0 +1,83 @@
+{
+    "single": {
+        "fontFamily": [
+            "'Times New Roman'",
+            "'Franklin Gothic Medium'",
+            "'Arial Narrow'",
+            "'Arial'",
+            "'Arial Black'",
+            "'Trebuchet MS'",
+            "'Gill Sans MT'",
+            "'Impact'",
+            "'Garamond'",
+            "'Castellar'",
+            "'Tempus Sans ITC'"
+        ],
+        "fontSize": [
+            "20px",
+            "21px",
+            "22px",
+            "23px",
+            "24px",
+            "25px"
+        ]
+    },
+    "multi": [
+        {
+            "color": "#F8DDD8",
+            "backgroundColor": "#4C3B68"
+        },
+        {
+            "color": "#ADEFD1FF",
+            "backgroundColor": "#00203FFF"
+        },
+        {
+            "color": "#D6ED17FF",
+            "backgroundColor": "#474747"
+        },
+        {
+            "color": "#D6ED17FF",
+            "backgroundColor": "#00203FFF"
+        },
+        {
+            "color": "#101820FF",
+            "backgroundColor": "#F2AA4CFF"
+        },
+        {
+            "color": "#E69A8DFF",
+            "backgroundColor": "#00203FFF"
+        },
+        {
+            "color": "#FEE715FF",
+            "backgroundColor": "#101820FF"
+        },
+        {
+            "color": "#C7D3D4FF",
+            "backgroundColor": "#483064"
+        },
+        {
+            "color": "#F2A39C",
+            "backgroundColor": "#2D2926FF"
+        },
+        {
+            "color": "#00C264",
+            "backgroundColor": "#101820FF"
+        },
+        {
+            "color": "#FFF8D6",
+            "backgroundColor": "#2C5F2DFF"
+        },
+        {
+            "color": "#E39CBD",
+            "backgroundColor": "#1C1C1BFF"
+        },
+        {
+            "color": "#2e640d",
+            "backgroundColor": "white"
+        },
+        {
+            "color": "white",
+            "backgroundColor": "#2e640d"
+        }
+    ]
+}
