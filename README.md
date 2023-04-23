@@ -13,6 +13,10 @@ You can customize the add-on from _Tools > Add-ons > Config_.
 
 Recommended to use with the [Random Sprites](https://ankiweb.net/shared/info/897478712) add-on.
 
+## Download
+
+You can download the add-on from AnkiWeb: [1369362778](https://ankiweb.net/shared/info/1369362778)
+
 ## Changelog
 
 See [CHANGELOG.md](CHANGELOG.md) for a list of changes.
