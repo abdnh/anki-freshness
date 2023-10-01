@@ -1,7 +1,7 @@
 {
-    "name": "Freshness",
-    "package": "freshness",
+    "ankiweb_id": "1369362778",
     "homepage": "https://github.com/abdnh/anki-freshness",
     "min_point_version": 22,
-    "ankiweb_id": "1369362778"
+    "name": "Freshness",
+    "package": "freshness"
 }
